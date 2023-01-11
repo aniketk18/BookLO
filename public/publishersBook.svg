@@ -1,0 +1,11 @@
+<svg id="Group_1373" data-name="Group 1373" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="343.421" height="267" viewBox="0 0 343.421 267">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_673" data-name="Rectangle 673" width="343.421" height="267" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1372" data-name="Group 1372" clip-path="url(#clip-path)">
+    <text id="Publisher" transform="translate(0 71.247)" fill="#474747" font-size="79" font-family="Impact"><tspan x="0" y="0">Publisher</tspan></text>
+    <text id="Books" transform="translate(0 219.441)" fill="#f7931e" font-size="134" font-family="Impact"><tspan x="0" y="0">Books</tspan></text>
+  </g>
+</svg>
